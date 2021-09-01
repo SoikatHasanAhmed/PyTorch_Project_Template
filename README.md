@@ -1,5 +1,9 @@
 # PyTorch Project template with/without GAN framework
 
+#### *On-going project.*
+
+####    * Do pull-request and give corrections, suggestions, advices, song names, k-drama list, boring movies, ideas etc., if you want. Check To-Do list.*
+
 The aim of this repo is to create my personal PyTorch project framework.
 
 Most of the time, whenever I am working on a new project, I either work on my previous template (which is good but not
@@ -152,9 +156,10 @@ others:
 
 ## To-do
 
-- [x] Make a basic template/Steal a template ([You](https://github.com/victoresque/pytorch-template) have received 75%
-  thanks and [You](https://github.com/fourson/DeblurGAN-pytorch) have received 22% thanks. I will keep 3% as I am still
-  editing your codes. Kudos!)
+- [x] Make a basic template/Steal a template and act like you own
+  it ([You](https://github.com/victoresque/pytorch-template) have received 75% thanks
+  and [You](https://github.com/fourson/DeblurGAN-pytorch) have received 22% thanks. I will keep 3% as I am still editing
+  your codes. Kudos!)
 - [x] Make option for GAN/No GAN project
 - [x] Check for tree copy errors - Project creation is OK!
 - [ ] Make projects with example models
@@ -163,6 +168,11 @@ others:
 - [ ] Train some small/medium GAN models to check every method/class
 - [ ] *I repeat - I didn't check the codes yet!!!*
 - [ ] *Please read the previous comment!*
+
+## CHANGELOG
+
+- Please check [*CHANGELOG*](CHANGELOG.md). It contains nothing may be. I am too lazy to change stuff. I am going broke
+  just because of coffee. Coffee should be free. I will start a revolution after my PhD. I swear!
 
 ## Acknowledgements
 
