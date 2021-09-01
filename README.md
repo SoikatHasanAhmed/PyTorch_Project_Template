@@ -2,26 +2,16 @@
 
 #### *On-going project.*
 
-####    * Do pull-request and give corrections, suggestions, advices, song names, k-drama list, boring movies, ideas etc., if you want. Check To-Do list.*
-
 The aim of this repo is to create my personal PyTorch project framework.
-
-Most of the time, whenever I am working on a new project, I either work on my previous template (which is good but not
-optimized and doesn't follow oop design) or write everything from scratch. So, after being lazy for over one-and-a-half
-year, it's high time I focused on making my own project framework.
-
-Some things are needed to be said beforehand:
 
 - *This work is currently undergoing trials and errors. I haven't checked everything yet. I just took the code and
   started editing. I have to make sure everything works before finalizing the template. I will make some example models
   and test with this framework.*
-- I don't like json format. Mainly because I can't comment, and I don't like the look of json files. I apologize for
+- Why YAML - I don't like json format. Mainly because I can't comment, and I don't like the look of json files. I apologize for
   being a language-phobic. It is what it is. I prefer YAML format. So, my configuration files will be in YAML.
-- I want to make a template which will make project tree based on choice of enabling GAN options. So, I have put a GAN
+- Why GAN option - I want to make a template which will make project tree based on choice of enabling GAN options. So, I have put a GAN
   option in ```new_project.py``` file. It will give me a bit of freedom while creating project tree as I work with GAN
   most of the time.
-- I want to practice more OOP coding. Currently, my coding style isn't OOP that much. I want to become more familiar
-  with OOP styles.
 
 ## Prerequisites
 
